@@ -1,1 +1,1 @@
-# stripe-backend
+Stripe backend for Flutter app
